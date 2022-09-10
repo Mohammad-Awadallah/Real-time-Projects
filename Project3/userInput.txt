@@ -1,0 +1,9 @@
+truck_capacity 5
+room_s1 15
+room_s2_min 10
+room_s2_max 20
+cartonBox_capacity 2
+time_storage_employee 2
+manufactured_detergent 20
+number_of_minutes 2
+truck_absant 4
